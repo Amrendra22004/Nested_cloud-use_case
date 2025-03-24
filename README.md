@@ -84,4 +84,4 @@ This document outlines use cases for nested cloud architectures, specifying tech
    - **Use Case**: Processes sensitive military data securely while tapping Azure for scalable simulation tools.
 
 ---
-By" Amrendra Dalai
+By: Amrendra Dalai
