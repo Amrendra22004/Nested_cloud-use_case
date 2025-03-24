@@ -64,4 +64,5 @@
 - **Kubernetes on OpenStack**: Bridges traditional and cloud-native workloads, as demonstrated by Nokia’s telecom innovations.  
 - **OpenStack on Kubernetes**: Enables a fully automated, cloud-native infrastructure, exemplified by Red Hat’s enterprise cloud success.  
 
-Both approaches leverage the open-source strengths of Kubernetes and OpenStack, delivering scalable, efficient solutions tailored to real-world industry needs.
+By: Amrendra Dalai
+
