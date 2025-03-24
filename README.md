@@ -80,6 +80,8 @@ This document outlines use cases for nested cloud architectures, specifying tech
 ### Example
 - GCP instances run OpenStack, which provisions VMs for a company like Blizzard to host World of Warcraft private test servers, leveraging GCP’s scalability for peak player testing phases.
 
--
+- Lockheed Martin uses a private cloud for classified defense projects on top of Microsoft Azure.
+- **Use Case**: Processes sensitive military data securely while tapping Azure for scalable simulation tools.
 
 ---
+By" Amrendra Dalai
