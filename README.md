@@ -1,3 +1,44 @@
+# Cloud Computing Basics
+
+## 1. Public Cloud
+
+### Definition
+A **Public Cloud** is a cloud computing model where resources such as servers, storage, and applications are provided by third-party service providers over the internet. These resources are shared among multiple users or organizations.
+
+### Advantages
+- Cost-effective due to shared infrastructure.
+- No need for on-premises hardware or maintenance.
+- Quick deployment and scalability.
+
+### Disadvantages
+- Limited control over data and infrastructure.
+- Potential security and privacy concerns due to shared resources.
+
+### Examples of Cloud Providers
+- Amazon Web Services (AWS)
+- Microsoft Azure
+- Google Cloud Platform (GCP)
+---
+
+## 2. Private Cloud
+
+### Definition
+A **Private Cloud** is a cloud computing environment dedicated exclusively to a single organization. It can be hosted on-premises or by a third-party provider, but the resources are not shared with other users.
+
+### Advantages
+- Greater control over security, data, and compliance.
+- Customizable to meet specific organizational needs.
+- Enhanced privacy due to dedicated resources.
+
+### Disadvantages
+- Higher costs for setup, maintenance, and management.
+- Requires in-house expertise or reliance on a provider.
+
+### Examples of Cloud Providers
+- VMware
+- Red Hat OpenStack
+- OpenStack
+---
 # Nested_cloud-use_case
 This document outlines use cases for nested cloud architectures, specifying technologies and how virtual machines (VMs) or instances are deployed. It covers private-on-private, public-on-public, public-on-private, and private-on-public scenarios, with practical examples and named tools.
 
